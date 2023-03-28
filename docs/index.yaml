@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  cert-manager-webhook-yandex:
+  - apiVersion: v1
+    appVersion: 1.0.1
+    created: "2023-03-28T17:58:50.871320658+06:00"
+    description: Yandex Cloud DNS cert-manager ACME webhook
+    digest: b802b91b971763c2814709d0db0294d2041b77b8b200926bfc25001e0c91f697
+    name: cert-manager-webhook-yandex
+    urls:
+    - cert-manager-webhook-yandex-1.0.1.tgz
+    version: 1.0.1
+generated: "2023-03-28T17:58:50.87087081+06:00"
